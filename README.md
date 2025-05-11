@@ -151,7 +151,7 @@ Este repositório é mantido sob a licença [MIT](https://opensource.org/license
 ## 📧 Contato
 Se você tiver dúvidas ou sugestões, entre em contato através do e-mail: [matheus@badwolf3d.com.br](mailto:matheus@badwolf3d.com.br)
 ## 👥 Contribuidores
-- [Matheus Bad Wolf](github.com/dieguesmosken)
+- [Matheus Bad Wolf](https://github.com/dieguesmosken)
 - se você quiser ser adicionado como colaborador, basta abrir uma issue ou pull request.
 ## 📅 Última atualização
 - 2025-05-11
